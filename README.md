@@ -1,0 +1,2 @@
+# bagatelles
+Miscellaneous code doodles
