@@ -1,5 +1,5 @@
 const assert = require('assert')
-const Game = require('../index').Game
+const Game = require('./index').Game
 
 const VERTICAL = [
   // Blink pattern
